@@ -3,12 +3,12 @@
     "name": "designcode-app",
     "slug": "designcode-app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo-figma.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#e60000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
