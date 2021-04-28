@@ -15,7 +15,7 @@ export default class App extends React.Component {
           <ScrollView style={{ height: "100%" }}>
             <TitleBar>
               <Avatar source={require("./assets/avatar.jpg")} />
-              <Title>Welcome back,</Title>
+              <Title>Welcome back today,</Title>
               <Name>Richard</Name>
               <NotificationIcon
                 style={{ position: "absolute", right: 20, top: 5 }}
