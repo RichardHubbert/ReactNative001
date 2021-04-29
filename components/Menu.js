@@ -101,6 +101,7 @@ const Cover = styled.View`
 const Content = styled.View`
     height: 900px;
     background: #ffffff;
+    padding: 50px;
 `;
 
 const CloseView = styled.View`
